@@ -5,7 +5,7 @@ author: "Prasun Panja"
 
 # 1. Overview
 
-This document is a simple user manual for the R code provided in `hpl(1).R`.
+This document is a simple user manual for the R code provided in `hpl.R` in `CT-HPlComp`.
 
 The code implements functions for testing pleiotropy between a genotype and two traits. The main procedures included are:
 
